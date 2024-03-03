@@ -1,0 +1,310 @@
+"1) # of regulation changes impacting IT per annum
+2) # FTEs dedicated to industry and government regulation monitoring in IT"
+"1) # of risk categories identified
+2) % of remediated vulnerabilities
+3) % of open high risk vulnerabilities"
+"1) frequency of mandatory risk management trainings
+2) Ratio of actual risk management policy reviews to required reviews (per policy)
+3) frequency of formal meetings of IT risk managers with business risk managers"
+1) # of access reviews completed annually for systems containing restricted data
+"1) % of audit findings that have a remediation plan
+2) % of audit findings that have been remediated"
+"1) % of exception requests received and documented
+2) % of exception requests mitigated / resolved
+3) % of exceptions systematically identified but not documented"
+"1) % of information requests received from regulatory bodies completed
+2) # of meetings with business stakeholders about regulatory requirements"
+"1) % of IT Services with formalized SLAs
+2) % of IT Services with formalized OLAs
+3) Frequency of renegotiated SLAs with business"
+"1) Frequency of CSI review per IT service
+2) % of enhancements initiated as a result of CSI review per year per IT service
+3) % of IT services with formal CSI process
+"
+"1) % of IT Services with customer satisfaction surveys
+2) Frequency of customer satisfaction survey review per IT service
+
+"
+"1) % of vendor SLA achieved
+2) Frequency of review of vendor scorecard results
+
+"
+"1) % of overall IT budget spent on IT contractors
+2) % success rate of contractor CSI initiatives"
+"1) % of the IT budget allocated to sourced services
+2) % of contracts that are reviewed on a regular basis"
+"1) % of realized SLA breach penalties enforced per vendor
+2) % of contracts renegotiated as a result of vendor breaches
+3) % of contracts renegotiated as a result of internal breaches
+
+"
+1) # of identified (internal/external) data sources or structures
+"1) # of classified (internal/external) data sources or structures
+2) # of open update requests"
+"1) % total of users aware of and adhering to policies, as evidenced by regular reviews and audits
+2) % of records disposed as per schedule
+3) % of records eligible for destruction as per target date"
+"1)  % Data and information lifecycles reviewed for security purposes around context sensitivity
+2) # Unused or underutilized data requests
+3) % Master Data elements with Data Stewards
+"
+"1) # of Business managers v/s data stewards outstanding requests
+"
+"1) % of users who have received security education and training
+2) # and Severity of unauthorized access attempts"
+"1) # and severity of physical security incidents
+2) # and results of Crisis Management/Emergency Response tests
+3) # and results of Disaster Recovery/Business Continuity tests
+4) % of datacenters and other physical locations with formalized security measures"
+"1) % of identified risks recorded in a risk register
+2) Frequency of updates to the risk register
+3) % of prioritized security risks mitigated to within the organizations risk tolerance threshold"
+"1) % of audit findings unrelated to non-compliance with security policies and procedures  
+"
+"1) % Knowledge assets managed/published through the KM process
+2) % of knowledge with manager or owner in the KM tool
+3) # of violations of the KM policies
+"
+"1) % of users contributing to knowledge base
+2) % of knowledge created following KM policies
+"
+"1) % of knowledge assets periodically reviewed and updated
+2) % of knowledge assets retired/expired
+"
+"1)  % of users adhering to policies, as evidenced by regular reviews and audits
+2)  % of audit findings unrelated to non-compliance with security policies and procedures "
+"1) % of projects run in conformance with defined methodologies, standards, tools and systems
+2) % of projects compliant with standard business case requirements/template
+"
+"1) % of programs/projects reassessed
+2) # of revision cycles for the prioritization process
+3) # of revisions for portfolio planning within the review cycle 
+
+
+
+"
+"1) % of projects that are delivered on time
+2) % of projects that meet functional requirements and quality/performance standards
+3) % of project managers trained on company standardized system delivery methodologies and related tools/templates
+4) % of projects compliant with standard methodologies for deployment"
+"1) % of projects developed using defined methodologies, standards, tools and systems
+2) % of projects compliant with standard methodologies for deployment
+3) % of new applications assembled from reusable components and services and enabled by value-added tools"
+"1) % of projects achieving quality business readiness targets
+2) % of projects achieving quality technical readiness targets
+3) % of defects found prior to implementation
+"
+"1) % of projects requesting an exception in PPM and SDLC methodologies
+2) % of exception requests received and documented
+3) % of exception requests mitigated / resolved
+
+"
+"1) % of requirements traceable to use cases / storyboards
+2) % of requirements traceable to test cases
+3) % of requirements traceable to code  / service components
+"
+"1) % of projects adhering to control requirements as evidenced by regular reviews and audits
+2) % of regulatory, control, or privacy/security requirements missed (remediated post design)
+3) % of risk monitoring integrated into organization's overall monitoring
+"
+"1) % solution designs that are evaluated against design criteria
+2) % solutions using established architecture pattern/guidelines
+3) % requirements that with bidirectional traceability through the full Solutions Delivery lifecycle
+
+"
+"1) % of solution cost estimates developed using estimating model
+2) % of projects requiring re-estimation (based on established variance threshold)
+3) Project budget overruns rate
+4) Project budget underruns rate
+"
+"1) % of solutions developed that adhere to structured SDLC methods
+2) % of solutions with adequate development documentation
+3) % of solutions with stakeholder participation
+4) % of solutions that document post-mortem and lessons learned"
+"1) % releases tested in correct test environments prior to release
+2) % testing & review activities planned versus executed 
+3) % of projects utilizing automated testing tools
+4) % of relevant automated and reusable testing scripts
+"
+"1) Age groups (% by functionality) of application software in production
+2) % of breakdown of programming types (New development, Enhancements, Maintenance)
+3) Fault rate in production (by criticality: critical, major, minor, cosmetic, etc.) per base measure (function points, lines of code, cyclomatic complexity, etc.)
+4) Fault rate in production (by cause category: design, programming, environment, etc.) per base measure (function points, lines of code, cyclomatic complexity, etc.)
+"
+"1) % of objectives met by the service portfolio management process when audited on an annual basis
+"
+1) % of successful reviews of the organization’s strategy shows that all changed business objectives and outcomes continue to be met by the services in the service portfolio
+"1) % of services in the service portfolio that are linked to at least one business outcome
+(This is verified through a regular review of the service portfolio)"
+1) % of services that have a documented charter.
+"1) % increase in customer satisfaction with a high level of satisfaction with the value they are receiving
+2) # Number of services reinstated after being retired (this will indicate the level of accuracy of evaluating viability"
+"1) # of services retired
+2) # Number of services reinstated after being retired (this will indicate the level of accuracy of evaluating viability)"
+"1) Total # of services offered by third party providers
+2) Total # of services requests via the Service Catalog
+3) % increase in completeness of the customer-facing views of the service catalogue against operational services
+"
+"1) Increased percentage of services covered by SLAs 
+2) Percentage reduction in the costs associated with service provision
+
+"
+"1) % percentage of  fully documented SLAs against all available services
+2) Percentage increase in SLAs agreed against operational services being run
+3) Reduction in the time taken to respond to and implement SLA requests
+"
+"1) Percentage reduction in SLA targets threatened
+2) %  of SLA breaches caused because of third-party support contracts (underpinning contracts) 
+3) %  of SLA breaches caused because of internal OLAs
+4) Reduction in the number and severity of SLA breaches
+"
+"1) % increase in customer perception and satisfaction of SLA achievements, via service reviews and customer satisfaction survey responses
+2) Frequency of SLA review meetings
+3) Increased percentage of SLA reviews completed on time
+4) % reduction of outstanding SLAs for annual renegotiation
+5) % reduction of SLAs requiring corrective changes (for example, targets not attainable; changes in usage levels)
+"
+"1) % increase in ability to monitor performance and throughput of all services and components
+2) % reduction in the use of old technology, causing breached SLAs due to problems with support or performance
+3) # of components monitored for performance by technology domain
+4) # of capacity related alerts received by service desk
+5) # of capacity related incident identified and resolved before any production impact
+"
+"1) % increase of production of workload forecasts on time
+
+"
+"1) % increase in accuracy of forecasts of business trends
+2) % reduction in the number of variances from the business plans and capacity plans"
+"1) # of applications supported
+2) # of CIs under-utilized divided by total number of CIs supported (CI: Configuration Item)
+3) % of new services implemented that match SLRs (Service Level Reporting)"
+"1) % reduction in lost business due to inadequate capacity
+2) % reduction in the number of SLA breaches due to either poor service performance or poor component performance
+"
+"1) % reduction in time taken to complete an availability plan
+2) % improvement in the service delivery costs"
+"1) Reduced time taken to complete (or update) a risk assessment
+2) % reduction in the incidence of operational reviews uncovering security and reliability exposures in application designs
+"
+"1) % reduction in critical time failures – for example, specific business peak and priority availability needs are planned for
+2) % improvement in business and users satisfied with service (by customer satisfaction survey results)"
+"1) % increase on successful completion of availability mechanisms
+2) % reduction in time taken to review system resilience
+"
+"1) % reduction in the unavailability of services and components
+2)  % increase in the reliability of services and components
+3) % improvement in overall end-to-end availability of service
+4) % reduction in the number and impact of service breaks
+"
+"1) Scope Definition Completion Rate (Measure the percentage of completion for defining the scope of IT service continuity activities. This includes identifying critical services, dependencies, and stakeholders)
+2. Documentation Completeness (Measure the completeness of documentation created during the initiation phase, such as risk registers, scope documents, and stakeholder communication plans)
+3. Communication Plan Implementation: Measure the implementation of communication plans designed to keep stakeholders informed about the initiation of IT service continuity activities. This could include newsletters, emails, or meetings"
+"1) DR Plan Completeness ( It measures the extent to which the DR Plan is complete, and has been reviewed and approved by all necessary stakeholders)
+
+2) DR Plan Relevance measures the extent to which the DR Plan is up to date, the level of synchronization with relevant CRs and their effect on the CMDB and the DR implementation processes "
+"1) Testing Plan Coverage measures the extent to which the DR Testing Plan is complete in terms of its scope of coverage, and has been reviewed and approved by all necessary stakeholders
+
+2) Testing Plan Relevance measures the extent to which the DR Testing Plan is up to date, the level of synchronization with relevant CRs and their effect on the CMDB and the DR implementation processes
+
+3) Test Execution measures the frequency with which various types of tests are conducted, what is tested, and the results of those tests
+
+4) Communication Plan Readiness measures the extent to which the communication plan is complete in its coverage of stakeholders and content types for dissemination
+
+4) Communication Execution Readiness measures the execution of the communication plan in terms of progress with respect to communication targets.
+
+5) Communication Effectiveness measures the extent to which communication recipients are absorbing the content and changes in recipient behavior"
+"1) Server Availability measures the availability of all physical server infrastructure 
+2) Storage Availability measures the availability of all storage hardware in the datacenter to process normal input/output
+3) LAN Availability calculates the aggregate availability across all switches for a specified time frame
+4) Network Latency measures the time it takes for packet to travel from one DC to a specified LAN within the Objective
+5) Packet Delivery measures the percentage of test packets successfully delivered from a production data center to the OORDR DC
+6) Replication Status measures the ability to send/receive data packets from a specified edge router over a replication circuit during a specified time frame
+7) Backup Status ensures that backups are being successfully completed on a regular basis, tested regularly and stored remotely
+Change Status assesses if all relevant Change Requests have been synchronized with DR Operations
+8) DR Plan Completeness measures the extent to which the DR Plan is complete, and has been reviewed and approved by all necessary stakeholders
+9) DR Plan Relevance measures the extent to which the DR Plan is up to date, the level of synchronization with relevant CRs and their effect on the CMDB and the DR implementation processes
+10) Testing Plan Coverage measures the extent to which the DR Testing Plan is complete in terms of its scope of coverage, and has been reviewed and approved by all necessary stakeholders
+11) Testing Plan Relevance measures the extent to which the DR Testing Plan is up to date, the level of synchronization with relevant CRs and their effect on the CMDB and the DR implementation processes
+12) Test Execution measures the frequency with which various types of tests are conducted, what is tested, and the results of those tests
+13) Communication Plan Readiness measures the extent to which the communication plan is complete in its coverage of stakeholders and content types for dissemination
+14) Communication Execution Readiness measures the execution of the communication plan in terms of progress with respect to communication targets.
+15) Communication Effectiveness measures the extent to which communication recipients are absorbing the content and changes in recipient behavior
+16) Training Plan Readiness measures the extent to which the Training Plan is complete in terms of its scope of coverage, and has been reviewed and approved by all necessary stakeholders
+17) Training Execution Readiness measures execution of the training plan in terms of progress with respect to training targets
+18) Staffing Readiness measures the current suitability/fit of staff in the roles they currently hold
+19) HR Pipeline Performance measures the rate at which HR is able to acquire and train talent to suitably fill open positions
+20) Vendor DR Readiness measures the completeness and relevance of DR Plans for 3rd Party Vendors"
+"1) Recovery Script Success/Fail Rate
+2) The Recovery Time Objective Target is met
+3) The Recovery Point Objective Target is met
+4) Business Recovery Success Criteria is met after an event of a Disaster or during DR testing activities"
+"1) % increase in the number of releases implemented that meet the customer’s agreed requirements in terms of cost, quality, scope and release schedule (expressed as a percentage of all releases)
+ 2) % reduction in variation of actual versus predicted scope, quality, cost and time"
+1) % increase in improved efficiency and effectiveness of the processes and supporting systems, tools, knowledge, information and data to enable the transition of new and changed services, e.g. sharing tool licenses
+"1) % increased in customer and user satisfaction with plans and communications
+2) % reduction of disruption to business due to better alignment between service transition plans and business activities"
+"1) % reduction in time and resource to develop and maintain integrated plans and coordination activities
+2) % reduction in number of issues, risks and delays
+3) % increase of service transition success rates"
+"1) % increase in project and service team satisfaction with the service transition practices
+2) % reduction of number of issues caused by conflicting demands for shared resources"
+"1) % of RFCs logged without duplicates
+2) % of RFCs with complete information
+"
+"1) % of changes classified correctly
+2) % of Normal Changes 
+3) % of Standard Changes (follow the course of approvals)
+4) % of Emergency Changes"
+"1) % of changes that are scheduled inside defined change windows
+2) # and % of backlogged changes"
+"1) % of changes that are not backed out
+2) % of changes that passed testing
+3) % of changes with back out plans
+4) % of changes that are occur inside defined change windows"
+"1) % of changes that are scheduled with appropriate approval
+2) % of changes reviewed by the CAB (Change advisory Board)
+3) # and % of changes approved for implementation
+
+"
+"1) % of changes with implementation/deployment plan
+2) % of changes that follow implementation/deployment plan
+"
+"1) % of changes implemented successfully
+2) Total time taken from when a normal change is submitted until the record is closed 
+3) Total time taken from when an standard change is submitted until the record is closed 
+4) Total time taken from when a emergency change is submitted until the record is closed 
+"
+"1) # of types of  configuration items (CIs) to be tracked
+2) % of types of  configuration items (CIs) to be tracked"
+1) Frequency of  configuration item (CI) collection
+"1) Total # of configuration items (CI)
+2) % of configuration records stored in the single Configuration Management Database
+3) % of rolled back changes"
+"1) # and severity of breaches in SLAs caused by inaccurate CMDB information 
+2) Timeliness of management reports"
+"1) # of configuration items (CI) with NO discovered discrepancies
+2) # of configuration items (CI) with discovered discrepancies
+3) % of accurate  configuration items (CIs) reported during verification and audit
+4) Audit frequency of unregistered configuration items (CIs) "
+1) % of releases successfully meeting validation criteria to proceed to planning stage of the release.
+"1) % increase in number of releases that make use of a common framework of standards, re-usable processes and supporting documentation.
+2) % increase in number of releases that meet customer expectations for cost, time and quality
+
+"
+"1) % increase of releases where build completion is successful.
+2) % increase of releases where the component unit tests complete successfully."
+"1) % decrease of known errors and defects during testing of the release
+2) % increase in successful test completions of the releases"
+1) % decrease in time to approve and schedule releases
+"1) % decrease in number of incidents categorized as ‘user knowledge’
+2) % increase of  incidents solved by level 1 and level 2 support
+3) % increase in satisfaction for surveys of customer, user and service operation function satisfaction with release and deployment management."
+"1) % reduction in number of CMS and DML audit failures related to releases
+2) % reduction in number of deployments from sources other than the DML
+3) % reduction in number of incidents due to incorrect components being deployed
+"
+"1) % reduction of variance from service performance required by customers
+2) % increase in customer and user satisfaction with the services delivered
+3) % decrease of customer dissatisfaction – service issues resulting from poorly tested or untested services increase the negative perception on the service provider organization as a whole"
+"1) % reduction of resources and costs to diagnose and fix incidents and problems in deployment and live use
+2) % reduction of number of incidents against the service (low and reducing)"
